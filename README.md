@@ -1,4 +1,4 @@
-### Файл `index.html:
+### Файл `index.html`:
 ```html
 <!doctype html>
 <html lang="ru">
